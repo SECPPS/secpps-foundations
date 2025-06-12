@@ -40,6 +40,7 @@ Chosen option: "GitHub wiki", because comes out best (see below).
 
 * Good, because both direct contributions and reviewed contributions (via PRs) are possible
 * Good, because, Markdown is rendered by GitHub
+* Good, because allows for git-based access
 * Bad, because navigation through the knowledge base is more code-like and less then Wiki-like.
 
 ### GitLab services
