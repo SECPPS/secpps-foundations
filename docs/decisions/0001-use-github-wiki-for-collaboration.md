@@ -33,7 +33,7 @@ Chosen option: "GitHub wiki", because comes out best (see below).
 
 * Good, because everyone with a GitHub account can edit
 * Good, because browsing of the Wiki is easy
-* Bad, because navigation pane has to be manually maintained
+* Bad, because [navigation pane shoulbe be manually maintained](https://github.com/orgs/community/discussions/23914#discussioncomment-3242152)
 * Bad, because a GitHub account is needed for editing
 
 ### GitHub repository
